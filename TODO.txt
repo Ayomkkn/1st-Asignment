@@ -1,0 +1,105 @@
+We will write a TODO APP
+
+========= TASKS APP =========
+………………………….………………….
+MAIN MENU
+    You currently have no tasks, add a task to proceed
+………………………….………………….
+OPTIONS:
+1. Create a Task
+………………………….………………….
+………………………….………………….
+Enter a number to proceed: 
+
+================================================================
+
+========= TASKS APP =========
+
+………………………….………………….
+MAIN MENU
+1.  LIST TASKS
+2.  CREATE A TASK
+………………………….………………….
+Enter a number to proceed: 
+
+================================================================
+
+========= TASKS APP =========
+CREATE A TASK
+
+	Enter the task title: Buy groceries
+
+================================================================
+
+========= TASKS APP =========
+CREATE A TASK
+	——— Buy groceries ———
+	Enter the task description:
+
+================================================================
+
+========= TASKS APP =========
+TASK CREATED
+	………………………….………………….………………………….………………….
+	.			——— Buy groceries ———
+	.	Title: Buy groceries
+	.	Description: Tomorrow at noon buy some groceries
+	.	Status: PENDING
+	………………………….………………….………………………….………………….
+
+
+………………………….………………….
+OPTIONS:
+1. Go back to main menu
+2. Go back to tasks list
+………………………….………………….
+Enter a number to proceed: 
+
+================================================================
+
+========= TASKS APP =========
+TASK LISTS
+ ————————————————
+	………………………….………………….
+	 You currently have no tasks created.
+	………………………….………………….
+
+………………………….………………….
+OPTIONS:
+1. Go back to main menu
+………………………….………………….
+Enter a number to proceed: 
+
+================================================================
+
+========= TASKS APP =========
+TASK LISTS
+	(Enter Task number to select a task)
+    1. Buy groceries [PENDING]
+    2. Do homework [COMPLETED]
+
+Enter a number to proceed: 
+
+================================================================
+
+========= TASKS APP =========
+TASK DETAIL
+	………………………….………………….………………………….………………….
+	.			——— Buy groceries ———
+	.	Title: Buy groceries
+	.	Description: Tomorrow at noon buy some groceries
+	.	Status: PENDING
+	.………………………….………………….………………………….………………….
+
+………………………….………………….
+OPTIONS:
+1. Go back to main menu
+2. Go back to tasks list
+3. Mark task as COMPLETED
+4. Delete this task
+………………………….………………….
+Enter a number to proceed: 
+
+
+
+
